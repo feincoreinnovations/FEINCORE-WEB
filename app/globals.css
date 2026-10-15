@@ -73,3 +73,16 @@ a.social-icon:hover{color:var(--cyan);border-color:#55d9ff8c;background:#55d9ff0
 .nav-contact .social-icon{width:30px;height:30px}
 @media(max-width:850px){.navrow{gap:12px}.navlinks{gap:12px}.nav-contact .social-icon{width:26px;height:26px}}
 @media(max-width:640px){.nav-contact .social-links{gap:3px}.nav-contact .social-icon{width:22px;height:22px}.nav-contact .social-icon svg{width:14px;height:14px}}
+.sample-mock-section{margin-top:76px;padding-top:40px;border-top:1px solid #293b4d}
+.sample-mock-section .section-head{align-items:end}
+.sample-mock-section .section-head h2{font-size:clamp(26px,3.4vw,38px);margin-top:10px}
+.sample-mock-section .section-head p{max-width:430px;color:#9eafbf;font-size:13px}
+.sample-mock-card .card-art{position:relative;min-height:154px}
+.sample-mock-card .card-art img{transition:transform .7s cubic-bezier(.25,1,.5,1)}
+.sample-mock-card:hover .card-art img{transform:scale(1.035)}
+.mock-stamp{position:absolute;top:12px;left:12px;padding:6px 8px;border:1px solid #55d9ff75;border-radius:3px;background:#07111edb;color:#c3f3ff;font:700 9px ui-monospace,monospace;letter-spacing:.14em}
+.sample-mock-card .card-kicker{color:#8fa3b5}
+.sample-mock-card .card-body p{margin-bottom:0}
+.career-sample-section .sample-mock-card .card-art{height:88px;min-height:88px;background:radial-gradient(ellipse at 75% 40%,#55d9ff18,transparent 58%),linear-gradient(135deg,#122437,#0a111a)}
+.career-sample-section .sample-mock-card .card-art:after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,transparent 47%,#55d9ff12 48%,transparent 49%);background-size:24px 24px;pointer-events:none}
+@media(prefers-reduced-motion:reduce){.sample-mock-card .card-art img{transition:none}}

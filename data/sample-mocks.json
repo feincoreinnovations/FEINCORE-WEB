@@ -1,0 +1,28 @@
+{
+  "enabled": {
+    "products": false,
+    "services": false,
+    "careers": false
+  },
+  "products": [
+    { "id": "mock-product-1", "name": "Inline Vision Station", "category": "SAMPLE PRODUCT MOCKUP", "description": "Preview card for an inline visual inspection concept. Product scope, performance, and availability are not confirmed.", "image": "/images/products/visioninspect.svg" },
+    { "id": "mock-product-2", "name": "Trolley Move AMR", "category": "SAMPLE PRODUCT MOCKUP", "description": "Preview card for a mobile material movement concept. Payload, routes, safety, and feasibility require application review.", "image": "/images/products/towbot.svg" },
+    { "id": "mock-product-3", "name": "Machine Data Gateway", "category": "SAMPLE PRODUCT MOCKUP", "description": "Preview card for equipment connectivity and data collection. Interfaces and specifications are application-dependent.", "image": "/images/products/connect.svg" },
+    { "id": "mock-product-4", "name": "Configurable Test Fixture", "category": "SAMPLE PRODUCT MOCKUP", "description": "Preview card for a configurable fixture and test station concept. Final design depends on approved requirements.", "image": "/images/products/custom.svg" },
+    { "id": "mock-product-5", "name": "Energy Monitor Module", "category": "SAMPLE PRODUCT MOCKUP", "description": "Preview card for an industrial energy monitoring concept. Compatibility and measurement scope are not confirmed.", "image": "/images/services/energy-monitoring.svg" }
+  ],
+  "services": [
+    { "id": "mock-service-1", "name": "PLC & HMI Upgrade Planning", "category": "SAMPLE SERVICE MOCKUP", "description": "Preview card for reviewing legacy controls, operator workflows, interfaces, and upgrade requirements before implementation.", "image": "/images/services/plc-hmi.svg" },
+    { "id": "mock-service-2", "name": "Automated Vision Inspection", "category": "SAMPLE SERVICE MOCKUP", "description": "Preview card for assessing cameras, lighting, inspection logic, product handling, and acceptance criteria.", "image": "/images/services/machine-vision.webp" },
+    { "id": "mock-service-3", "name": "Robotic Machine Tending", "category": "SAMPLE SERVICE MOCKUP", "description": "Preview card for a robot cell study covering reach, tooling, machine handshakes, guarding, and recovery.", "image": "/images/services/robotics.webp" },
+    { "id": "mock-service-4", "name": "Machine Data & Condition Monitoring", "category": "SAMPLE SERVICE MOCKUP", "description": "Preview card for selecting machine signals, data collection methods, dashboards, and monitoring workflows.", "image": "/images/services/industrial-iot.webp" },
+    { "id": "mock-service-5", "name": "Legacy Machine Modernization", "category": "SAMPLE SERVICE MOCKUP", "description": "Preview card for assessing equipment condition, controls, safety provisions, and retrofit feasibility.", "image": "/images/services/modernization.webp" }
+  ],
+  "careers": [
+    { "id": "mock-career-1", "name": "Industrial Solutions Sales Associate", "department": "SAMPLE ROLE MOCKUP", "description": "Preview card for a customer-facing role supporting discovery and proposals for industrial products and services." },
+    { "id": "mock-career-2", "name": "Product Marketing Associate", "department": "SAMPLE ROLE MOCKUP", "description": "Preview card for communicating product concepts through campaigns, demonstrations, and customer-facing material." },
+    { "id": "mock-career-3", "name": "Automation Controls Engineer", "department": "SAMPLE ROLE MOCKUP", "description": "Preview card for controls engineering work involving PLCs, HMI, machine interfaces, and commissioning support." },
+    { "id": "mock-career-4", "name": "Machine Vision Engineer", "department": "SAMPLE ROLE MOCKUP", "description": "Preview card for developing inspection concepts with cameras, lighting, image processing, and validation." },
+    { "id": "mock-career-5", "name": "Robotics Integration Engineer", "department": "SAMPLE ROLE MOCKUP", "description": "Preview card for robotic application studies involving cell layout, tooling, integration, and safety review." }
+  ]
+}
