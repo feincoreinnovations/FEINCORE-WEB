@@ -583,5 +583,10 @@
     },
     "imageAlt": "Illustrative turnkey cell engineering diagram",
     "serviceOverview": "Turnkey automation delivery coordinates agreed project stages, from requirements and concept design through controls, equipment integration, testing, commissioning, and handover. Responsibilities, interfaces, acceptance criteria, documentation, and schedule are defined at the outset so each delivery stage can be reviewed transparently."
-  }
+  },
+  {"enabled":false,"id":"mock-service-1","name":"PLC & HMI Upgrade Planning","category":"SAMPLE SERVICE MOCKUP","shortDescription":"Preview card for reviewing legacy controls, operator workflows, interfaces, and upgrade requirements before implementation.","image":"/images/services/plc-hmi.svg"},
+  {"enabled":false,"id":"mock-service-2","name":"Automated Vision Inspection","category":"SAMPLE SERVICE MOCKUP","shortDescription":"Preview card for assessing cameras, lighting, inspection logic, product handling, and acceptance criteria.","image":"/images/services/machine-vision.webp"},
+  {"enabled":false,"id":"mock-service-3","name":"Robotic Machine Tending","category":"SAMPLE SERVICE MOCKUP","shortDescription":"Preview card for a robot cell study covering reach, tooling, machine handshakes, guarding, and recovery.","image":"/images/services/robotics.webp"},
+  {"enabled":false,"id":"mock-service-4","name":"Machine Data & Condition Monitoring","category":"SAMPLE SERVICE MOCKUP","shortDescription":"Preview card for selecting machine signals, data collection methods, dashboards, and monitoring workflows.","image":"/images/services/industrial-iot.webp"},
+  {"enabled":false,"id":"mock-service-5","name":"Legacy Machine Modernization","category":"SAMPLE SERVICE MOCKUP","shortDescription":"Preview card for assessing equipment condition, controls, safety provisions, and retrofit feasibility.","image":"/images/services/modernization.webp"}
 ]

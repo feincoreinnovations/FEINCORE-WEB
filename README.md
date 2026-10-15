@@ -24,7 +24,7 @@ Before the production build, replace `officialWebsiteUrl` in `data/site-settings
 - `data/notices.json`: popup artwork and display behavior.
 - `data/homepage.json`: homepage copy and process steps.
 - `data/services.json`, `data/projects.json`, and `data/products.json`: site catalogue.
-- `data/sample-mocks.json`: exactly five preview cards per Products, Services, and Careers. Set the matching `enabled` value to `true` to show them; all are labeled mockups and are hidden by default.
+- Each of `data/products.json`, `data/services.json`, and `data/careers.json` contains five sample mock cards alongside its regular entries. Set an individual card's `"enabled"` value to `true` to show it; mock cards are labeled preview only and are hidden by default.
 
 The contact form opens the visitor’s mail app with a prefilled message to `feincoreinnovations@gmail.com`. It does not send or store the enquiry. The public phone number is `9345611558`.
 

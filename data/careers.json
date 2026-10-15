@@ -28,5 +28,11 @@
       "title": "Sales & Marketing Opening — Industrial Products & Services",
       "description": "Apply for FEINCORE Innovations’ sales and marketing role supporting industrial automation products and engineering services."
     }
-  }
+  },
+  {"enabled":false,"id":"mock-career-1","name":"Industrial Solutions Sales Associate","department":"SAMPLE ROLE MOCKUP","description":"Preview card for a customer-facing role supporting discovery and proposals for industrial products and services."},
+  {"enabled":false,"id":"mock-career-2","name":"Product Marketing Associate","department":"SAMPLE ROLE MOCKUP","description":"Preview card for communicating product concepts through campaigns, demonstrations, and customer-facing material."},
+  {"enabled":false,"id":"mock-career-3","name":"Automation Controls Engineer","department":"SAMPLE ROLE MOCKUP","description":"Preview card for controls engineering work involving PLCs, HMI, machine interfaces, and commissioning support."},
+  {"enabled":false,"id":"mock-career-4","name":"Machine Vision Engineer","department":"SAMPLE ROLE MOCKUP","description":"Preview card for developing inspection concepts with cameras, lighting, image processing, and validation."},
+  {"enabled":false,"id":"mock-career-5","name":"Robotics Integration Engineer","department":"SAMPLE ROLE MOCKUP","description":"Preview card for robotic application studies involving cell layout, tooling, integration, and safety review."}
 ]
+
