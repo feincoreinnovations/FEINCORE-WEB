@@ -1,0 +1,54 @@
+{
+  "heroTitle": "Engineering the Future of Manufacturing.",
+  "heroDescription": "Smarter machines. Intelligent inspection. Connected factories. We engineer automation solutions that help industries improve quality, productivity, and operational efficiency.",
+  "introTitle": "Turning Industrial Challenges into Intelligent Solutions",
+  "introParagraphs": [
+    "Manufacturing is evolving. Production lines need to be faster, inspection needs to be more reliable, and machines need to work smarter.",
+    "At FEINCORE INNOVATIONS, we combine industrial automation, machine vision, artificial intelligence, robotics, and industrial software to address real-world manufacturing challenges.",
+    "From individual machine improvements to integrated automation projects, our focus is on practical engineering, reliable integration, and solutions designed around customer requirements."
+  ],
+  "reasons": [
+    "Engineering solutions tailored to real industrial requirements.",
+    "Practical adoption of AI, robotics, and automation.",
+    "Focus on maintainability, repeatability, and reliable integration.",
+    "Opportunities to modernize and reuse suitable existing machinery.",
+    "Transparent technical communication and customer-focused project execution."
+  ],
+  "processTitle": "From Challenge to Solution",
+  "process": [
+    {
+      "title": "Understand",
+      "description": "Analyze the process, challenges, and objectives."
+    },
+    {
+      "title": "Engineer",
+      "description": "Develop the technical concept and system design."
+    },
+    {
+      "title": "Build & Integrate",
+      "description": "Develop the required hardware, software, and controls."
+    },
+    {
+      "title": "Test & Commission",
+      "description": "Validate agreed functions and commission the system."
+    },
+    {
+      "title": "Support & Improve",
+      "description": "Provide agreed training, documentation, maintenance, and improvement support."
+    }
+  ],
+  "ctaTitle": "Have an Industrial Challenge? Let's Engineer the Solution.",
+  "ctaDescription": "Tell us about your project and explore the right engineering approach for your business.",
+  "capabilities": [
+    "Industrial Automation & Control Systems",
+    "Machine Vision & AI-Based Inspection",
+    "Robotics & Intelligent Material Handling",
+    "Industrial Machine Retrofitting & Modernization",
+    "Industrial IoT & Smart Manufacturing",
+    "Special Purpose Machine Development",
+    "Mechanical & Electrical Engineering",
+    "Customized Industrial Software",
+    "Energy Monitoring & Battery Management",
+    "System Integration & Technical Support"
+  ]
+}

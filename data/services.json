@@ -1,0 +1,587 @@
+[
+  {
+    "id": "s1",
+    "name": "Industrial Automation & Control Systems",
+    "slug": "industrial-automation",
+    "category": "Automation",
+    "shortDescription": "Design and integration of automated machine functions and industrial control systems.",
+    "description": "Application-focused automation from individual machine functions to integrated control systems.",
+    "image": "/images/services/industrial-automation.svg",
+    "gallery": [],
+    "features": [
+      "PLC programming and logic development",
+      "HMI design and operator interfaces",
+      "Control panel design and integration",
+      "Machine sequencing and interlocking",
+      "Industrial communication and equipment integration",
+      "Troubleshooting and process improvement"
+    ],
+    "applications": [
+      "Machine automation",
+      "Production processes"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "robotic-machine-tending-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": true,
+    "displayOrder": 1,
+    "published": true,
+    "seo": {
+      "title": "Industrial Automation Services | FEINCORE INNOVATIONS",
+      "description": "Industrial automation, PLC, HMI, control panel design and system integration."
+    },
+    "imageAlt": "Illustrative automation workcell engineering diagram",
+    "serviceOverview": "Industrial automation projects begin with the equipment sequence, interfaces, and operating constraints. Engineering scope can include PLC logic, HMI screens, sensors and actuators, machine interlocks, communication interfaces, and integration planning. Requirements, acceptance criteria, and commissioning scope are agreed for each application."
+  },
+  {
+    "id": "s2",
+    "name": "Machine Vision & AI-Based Inspection",
+    "slug": "machine-vision-inspection",
+    "category": "Inspection",
+    "shortDescription": "Automated visual inspection, identification, measurement, and product verification.",
+    "description": "Vision systems designed around inspection requirements, product presentation, lighting, optics, and production conditions.",
+    "image": "/images/services/machine-vision.webp",
+    "gallery": [],
+    "features": [
+      "Presence and absence detection",
+      "Defect and surface inspection",
+      "OCR and text verification",
+      "Barcode and code reading",
+      "Part orientation and positioning",
+      "Inspection data logging"
+    ],
+    "applications": [
+      "Manufacturing",
+      "Assembly",
+      "Quality inspection"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "machine-vision-inspection-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": true,
+    "displayOrder": 2,
+    "published": true,
+    "seo": {
+      "title": "Machine Vision & AI Inspection | FEINCORE INNOVATIONS",
+      "description": "Machine vision inspection, OCR, defect detection, and industrial camera integration."
+    },
+    "imageAlt": "Machine vision system inspecting a manufactured part",
+    "serviceOverview": "Machine vision applications are developed around the inspection objective, product variation, line speed, and available installation space. A study evaluates camera and lens selection, lighting, image capture timing, inspection logic, operator feedback, reject handling, and result logging. Performance is validated against agreed sample parts and acceptance criteria."
+  },
+  {
+    "id": "s3",
+    "name": "Robotics & Intelligent Material Handling",
+    "slug": "robotics-material-handling",
+    "category": "Robotics",
+    "shortDescription": "Automation concepts for repetitive operations, material movement, and machine tending.",
+    "description": "Application-specific robotics and material handling concepts designed around factory workflows.",
+    "image": "/images/services/robotics.webp",
+    "gallery": [],
+    "features": [
+      "Robotic application development",
+      "Automated material handling",
+      "Machine loading and unloading",
+      "Motion and sequence coordination",
+      "Application feasibility studies"
+    ],
+    "applications": [
+      "Machine tending",
+      "Internal logistics"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "robotic-machine-tending-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": true,
+    "displayOrder": 3,
+    "published": true,
+    "seo": {
+      "title": "Robotics & Material Handling | FEINCORE INNOVATIONS",
+      "description": "Industrial robotics, material handling, and machine tending engineering."
+    },
+    "imageAlt": "Industrial robotic arm in an automation workcell",
+    "serviceOverview": "Robotic applications are planned around payload, reach, cycle time, part presentation, tooling, and operator interaction. The study can cover cell layout, robot and end-effector selection, machine handshakes, material flow, guarding, safety controls, recovery procedures, and commissioning. Final suitability depends on site conditions and a documented risk assessment."
+  },
+  {
+    "id": "s4",
+    "name": "Industrial Machine Retrofitting & Modernization",
+    "slug": "machine-retrofitting-modernization",
+    "category": "Modernization",
+    "shortDescription": "Assess suitable existing equipment for modernization, reuse, or integration into another application.",
+    "description": "Not every outdated machine needs to be replaced. FEINCORE INNOVATIONS can assess suitable equipment for modernization, reuse, or integration into another application. Modernization is subject to equipment condition, technical feasibility, safety requirements, and economic evaluation.",
+    "image": "/images/services/modernization.webp",
+    "gallery": [],
+    "features": [
+      "Legacy PLC and HMI upgrades",
+      "Sensors, cameras, and inspection integration",
+      "Machine connectivity and data acquisition",
+      "Electrical and control-system improvements",
+      "Refurbishment, reuse, or repurposing assessment",
+      "Upgrade planning"
+    ],
+    "applications": [
+      "Legacy equipment",
+      "Production changes",
+      "Machine integration"
+    ],
+    "benefits": [
+      "Potential to extend equipment life",
+      "Improve machine capabilities",
+      "Evaluate reuse before replacement where suitable"
+    ],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "legacy-machine-modernization-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": true,
+    "displayOrder": 4,
+    "published": true,
+    "seo": {
+      "title": "Machine Retrofitting & Modernization | FEINCORE INNOVATIONS",
+      "description": "Evaluate industrial machine upgrades, modernization, reuse, and repurposing."
+    },
+    "imageAlt": "Machine modernization controls and operator interface",
+    "serviceOverview": "Modernization starts with an assessment of the machine’s mechanical and electrical condition, existing controls, documentation, safety provisions, and production requirements. A retrofit scope may include selected PLC or HMI upgrades, sensor additions, connectivity, and data acquisition. Reuse is recommended only where technical feasibility, safety, and economics support it."
+  },
+  {
+    "id": "s5",
+    "name": "Industrial IoT & Smart Manufacturing",
+    "slug": "industrial-iot",
+    "category": "Connectivity",
+    "shortDescription": "Connect equipment and make operational data more accessible.",
+    "description": "Machine data acquisition, equipment connectivity, monitoring, and reporting concepts.",
+    "image": "/images/services/industrial-iot.webp",
+    "gallery": [],
+    "features": [
+      "Sensor and gateway integration",
+      "Industrial communication",
+      "Production monitoring",
+      "Equipment status and event logging",
+      "Data visualization and reporting"
+    ],
+    "applications": [
+      "Production monitoring",
+      "Equipment visibility"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "legacy-machine-modernization-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": true,
+    "displayOrder": 5,
+    "published": true,
+    "seo": {
+      "title": "Industrial IoT Solutions | FEINCORE INNOVATIONS",
+      "description": "Industrial connectivity, data acquisition, monitoring, and reporting."
+    },
+    "imageAlt": "Industrial IoT equipment monitoring and control cabinet",
+    "serviceOverview": "Industrial connectivity planning considers available machine signals, communication protocols, network architecture, and the intended use of collected data. Scope may include gateway and sensor selection, equipment status collection, event logging, dashboards, and reporting interfaces. Data access, network security, and integration boundaries are reviewed with the site team."
+  },
+  {
+    "id": "s6",
+    "name": "Special Purpose Machine Development",
+    "slug": "special-purpose-machines",
+    "category": "Custom Engineering",
+    "shortDescription": "Application-specific machinery for production, assembly, testing, and inspection.",
+    "description": "Concept development and integration of application-specific fixtures, mechanisms, automation, and controls.",
+    "image": "/images/services/special-purpose-machines.svg",
+    "gallery": [],
+    "features": [
+      "Concept development and feasibility",
+      "Customized fixtures and mechanisms",
+      "Automated assembly and testing",
+      "Pneumatic and electromechanical integration",
+      "Controls and operator interface"
+    ],
+    "applications": [
+      "Assembly",
+      "Testing",
+      "Inspection"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "machine-vision-inspection-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 6,
+    "published": true,
+    "seo": {
+      "title": "Special Purpose Machines | FEINCORE INNOVATIONS",
+      "description": "Application-specific industrial machine development and integration."
+    },
+    "imageAlt": "Illustrative special machine engineering diagram",
+    "serviceOverview": "Special purpose machine development translates an operation into a defined machine concept. Engineering can cover process sequence, cycle requirements, part handling, fixtures, mechanisms, pneumatics, controls, operator access, and safety provisions. Concept, build, testing, and handover stages are agreed according to the project scope."
+  },
+  {
+    "id": "s7",
+    "name": "Mechanical & Electrical Engineering",
+    "slug": "mechanical-electrical-engineering",
+    "category": "Engineering",
+    "shortDescription": "Engineering support for machine design and industrial system development.",
+    "description": "Mechanical and electrical design support shaped around project needs and engineering requirements.",
+    "image": "/images/services/mechanical-electrical.svg",
+    "gallery": [],
+    "features": [
+      "Mechanical design and CAD support",
+      "Electrical schematics and wiring documentation",
+      "Component selection and system architecture",
+      "Panel layout and integration planning",
+      "Technical documentation"
+    ],
+    "applications": [
+      "Machine development",
+      "System integration"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 7,
+    "published": true,
+    "seo": {
+      "title": "Mechanical & Electrical Engineering | FEINCORE INNOVATIONS",
+      "description": "Mechanical design, electrical engineering, and industrial system development."
+    },
+    "imageAlt": "Illustrative mechatronics engineering diagram",
+    "serviceOverview": "Mechanical and electrical engineering support can cover machine layouts, mechanisms, component selection, electrical schematics, panel architecture, wiring details, and interface documentation. Deliverables are coordinated across mechanical, electrical, and controls disciplines to support integration, serviceability, and the agreed project requirements."
+  },
+  {
+    "id": "s8",
+    "name": "Customized Industrial Software",
+    "slug": "industrial-software",
+    "category": "Software",
+    "shortDescription": "Software designed around industrial workflows, machine data, and engineering requirements.",
+    "description": "Industrial software concepts for production, inspection, machine connectivity, data logging, and reporting.",
+    "image": "/images/services/industrial-software.svg",
+    "gallery": [],
+    "features": [
+      "Production and inspection dashboards",
+      "OCR and image processing",
+      "Machine data logging and reporting",
+      "Monitoring applications",
+      "Customized engineering utilities"
+    ],
+    "applications": [
+      "Production",
+      "Inspection",
+      "Monitoring"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 8,
+    "published": true,
+    "seo": {
+      "title": "Customized Industrial Software | FEINCORE INNOVATIONS",
+      "description": "Industrial software for production, inspection, monitoring, and data workflows."
+    },
+    "imageAlt": "Illustrative industrial software engineering diagram",
+    "serviceOverview": "Industrial software is scoped around specific production and engineering workflows. Applications can include operator dashboards, inspection interfaces, event and machine data logging, reporting, and utilities that exchange information with compatible controls or equipment. User roles, data ownership, security, and integration requirements are defined before implementation."
+  },
+  {
+    "id": "s9",
+    "name": "Energy Monitoring & Battery Management",
+    "slug": "energy-battery-management",
+    "category": "Energy",
+    "shortDescription": "Monitoring and control concepts for energy-related industrial applications.",
+    "description": "Energy data acquisition and monitoring concepts for industrial applications. Scope and performance depend on application requirements.",
+    "image": "/images/services/energy-monitoring.svg",
+    "gallery": [],
+    "features": [
+      "Electrical parameter monitoring",
+      "Energy data acquisition",
+      "Embedded monitoring concepts",
+      "Battery management system development concepts",
+      "Renewable energy monitoring integration"
+    ],
+    "applications": [
+      "Energy monitoring",
+      "Battery applications"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 9,
+    "published": true,
+    "seo": {
+      "title": "Energy Monitoring & BMS | FEINCORE INNOVATIONS",
+      "description": "Explore energy monitoring and battery management engineering concepts."
+    },
+    "imageAlt": "Illustrative energy monitoring engineering diagram",
+    "serviceOverview": "Energy and battery-related projects require clearly defined measurement points, operating limits, environmental conditions, and safety requirements. Engineering scope may include electrical data acquisition, temperature monitoring, reporting, and embedded monitoring concepts. Battery and energy functions require application-specific design review and validation before deployment."
+  },
+  {
+    "id": "s10",
+    "name": "Integration, Commissioning & Technical Support",
+    "slug": "integration-commissioning-support",
+    "category": "Integration",
+    "shortDescription": "Implementation and support for automation solutions according to project scope.",
+    "description": "Practical assistance for integrating, testing, commissioning, documenting, and improving industrial systems.",
+    "image": "/images/services/commissioning.svg",
+    "gallery": [],
+    "features": [
+      "Installation and system integration",
+      "Functional testing and commissioning",
+      "Troubleshooting assistance",
+      "Operator and maintenance training",
+      "Documentation and handover"
+    ],
+    "applications": [
+      "Automation systems",
+      "Industrial equipment"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "robotic-machine-tending-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 10,
+    "published": true,
+    "seo": {
+      "title": "Automation Integration & Support | FEINCORE INNOVATIONS",
+      "description": "Industrial system integration, commissioning, training, and technical support."
+    },
+    "imageAlt": "Illustrative commissioning engineering diagram",
+    "serviceOverview": "Integration and commissioning activities are planned against an agreed functional scope and site schedule. Work may include interface checks, installation coordination, functional testing, fault resolution, documentation, and operator or maintenance handover. Commissioning acceptance criteria and any ongoing support responsibilities are defined with the customer."
+  },
+  {
+    "id": "s11",
+    "name": "PLC and HMI Development",
+    "slug": "plc-hmi-development",
+    "category": "Controls",
+    "shortDescription": "PLC logic and operator interfaces for industrial equipment and processes.",
+    "description": "Development and improvement of PLC control logic and HMI screens according to machine and process requirements.",
+    "image": "/images/services/plc-hmi.svg",
+    "gallery": [],
+    "features": [
+      "PLC programming",
+      "HMI screen development",
+      "Sequence and interlock logic",
+      "Troubleshooting and upgrades"
+    ],
+    "applications": [
+      "Machines",
+      "Process control"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "legacy-machine-modernization-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 11,
+    "published": true,
+    "seo": {
+      "title": "PLC & HMI Development | FEINCORE INNOVATIONS",
+      "description": "PLC programming, HMI development, and industrial controls integration."
+    },
+    "imageAlt": "Illustrative plc and hmi engineering diagram",
+    "serviceOverview": "PLC and HMI development translates equipment requirements into control sequences and clear operator workflows. Scope can include I/O review, logic changes, interlocks, alarms, screen layouts, recipe handling, diagnostics, backups, and integration with existing devices. Compatibility and commissioning requirements are checked against installed hardware and software."
+  },
+  {
+    "id": "s12",
+    "name": "Control Panel Automation",
+    "slug": "control-panel-automation",
+    "category": "Controls",
+    "shortDescription": "Control panel design and integration to suit industrial automation scope.",
+    "description": "Control panel and electrical integration planned against applicable project requirements and customer specifications.",
+    "image": "/images/services/control-panel.svg",
+    "gallery": [],
+    "features": [
+      "Panel architecture",
+      "Component selection",
+      "Electrical documentation",
+      "System integration"
+    ],
+    "applications": [
+      "Industrial machinery",
+      "Automation systems"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "legacy-machine-modernization-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 12,
+    "published": true,
+    "seo": {
+      "title": "Control Panel Automation | FEINCORE INNOVATIONS",
+      "description": "Industrial control panel automation and integration services."
+    },
+    "imageAlt": "Illustrative control panel engineering diagram",
+    "serviceOverview": "Control panel engineering considers machine architecture, electrical loads, environmental conditions, component ratings, layout, wiring, and service access. Work may include component selection, schematics, panel layout, build documentation, inspection, and system integration. Applicable standards and customer specifications are confirmed during requirements review."
+  },
+  {
+    "id": "s13",
+    "name": "Process Automation",
+    "slug": "process-automation",
+    "category": "Automation",
+    "shortDescription": "Automation concepts for repeatable industrial process steps.",
+    "description": "Process automation scoped around actual operating conditions, control requirements, and integration constraints.",
+    "image": "/images/services/process-automation.svg",
+    "gallery": [],
+    "features": [
+      "Process sequencing",
+      "Interlocks and control logic",
+      "Instrumentation integration",
+      "Process monitoring"
+    ],
+    "applications": [
+      "Manufacturing processes",
+      "Industrial operations"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "robotic-machine-tending-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 13,
+    "published": true,
+    "seo": {
+      "title": "Process Automation | FEINCORE INNOVATIONS",
+      "description": "Industrial process automation and control system engineering."
+    },
+    "imageAlt": "Illustrative process automation engineering diagram",
+    "serviceOverview": "Process automation is planned around operating stages, instruments, process limits, and required operator controls. Engineering scope can include sequence logic, instrumentation interfaces, alarms, interlocks, HMI visualization, and data capture. The control strategy and safety requirements are reviewed against the actual process and site conditions."
+  },
+  {
+    "id": "s14",
+    "name": "Battery Management Systems",
+    "slug": "battery-management-systems",
+    "category": "Energy",
+    "shortDescription": "Battery monitoring and management system development concepts.",
+    "description": "Battery monitoring and management concepts that require engineering validation against the selected cell, pack, environment, and safety requirements.",
+    "image": "/images/services/battery-management.svg",
+    "gallery": [],
+    "features": [
+      "Battery monitoring concepts",
+      "Embedded systems development",
+      "Application-specific evaluation"
+    ],
+    "applications": [
+      "Battery systems",
+      "Energy storage"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 14,
+    "published": true,
+    "seo": {
+      "title": "Battery Management Systems | FEINCORE INNOVATIONS",
+      "description": "Explore battery monitoring and management system engineering concepts."
+    },
+    "imageAlt": "Illustrative battery management engineering diagram",
+    "serviceOverview": "Battery management system concepts start with cell chemistry, pack configuration, measurement needs, operating environment, and protection strategy. Scope can include cell-voltage and temperature monitoring, communication interfaces, fault handling, and validation planning. Protection thresholds and system behavior require specialist design review and application testing."
+  },
+  {
+    "id": "s15",
+    "name": "Renewable Energy Solutions",
+    "slug": "renewable-energy-solutions",
+    "category": "Energy",
+    "shortDescription": "Monitoring and integration concepts for renewable energy applications.",
+    "description": "Engineering and monitoring concepts for renewable energy applications, subject to project requirements and technical assessment.",
+    "image": "/images/services/renewable-energy.svg",
+    "gallery": [],
+    "features": [
+      "Energy monitoring integration",
+      "Data acquisition concepts",
+      "Application-specific controls"
+    ],
+    "applications": [
+      "Renewable energy systems",
+      "Energy monitoring"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 15,
+    "published": true,
+    "seo": {
+      "title": "Renewable Energy Solutions | FEINCORE INNOVATIONS",
+      "description": "Renewable energy monitoring and industrial engineering integration."
+    },
+    "imageAlt": "Illustrative renewable energy engineering diagram",
+    "serviceOverview": "Renewable energy engineering can include monitoring architecture, electrical data acquisition, equipment interfaces, and operational reporting for suitable applications. Generation equipment, storage, controls, and site networks are considered as an integrated system. Feasibility, protection, grid interfaces, and performance requirements are confirmed with qualified project stakeholders."
+  },
+  {
+    "id": "s16",
+    "name": "Turnkey Automation Projects",
+    "slug": "turnkey-automation-projects",
+    "category": "Integration",
+    "shortDescription": "Coordinated automation delivery across the agreed project scope.",
+    "description": "Turnkey project delivery can coordinate engineering, controls, integration, testing, and commissioning according to an agreed scope.",
+    "image": "/images/services/turnkey-automation.svg",
+    "gallery": [],
+    "features": [
+      "Requirements review",
+      "System design and integration",
+      "Testing and commissioning",
+      "Documentation and handover"
+    ],
+    "applications": [
+      "Industrial automation",
+      "Machine systems"
+    ],
+    "benefits": [],
+    "relatedProducts": [],
+    "relatedProjects": [
+      "machine-vision-inspection-concept"
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "featured": false,
+    "displayOrder": 16,
+    "published": true,
+    "seo": {
+      "title": "Turnkey Automation Projects | FEINCORE INNOVATIONS",
+      "description": "Industrial turnkey automation project engineering and integration."
+    },
+    "imageAlt": "Illustrative turnkey cell engineering diagram",
+    "serviceOverview": "Turnkey automation delivery coordinates agreed project stages, from requirements and concept design through controls, equipment integration, testing, commissioning, and handover. Responsibilities, interfaces, acceptance criteria, documentation, and schedule are defined at the outset so each delivery stage can be reviewed transparently."
+  }
+]

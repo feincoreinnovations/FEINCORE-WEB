@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sales-marketing-industrial-products-services",
+    "name": "Sales & Marketing — Industrial Products and Services",
+    "slug": "sales-marketing-industrial-products-services",
+    "department": "Sales & Marketing",
+    "description": "Help manufacturing businesses understand how FEINCORE’s industrial automation products and engineering services can address their operational needs. This role combines customer discovery, solution coordination, sales follow-up, and clear technical marketing.",
+    "image": "/images/careers/sales-marketing-factory.webp",
+    "imageAlt": "Sales and marketing professional discussing an industrial automation inspection station with a manufacturing team",
+    "responsibilities": [
+      "Identify and engage manufacturing businesses that may benefit from automation, machine vision, robotics, modernization, and industrial software.",
+      "Understand customer requirements and coordinate with the engineering team to shape suitable product and service proposals.",
+      "Prepare presentations, quotations, product information, and follow-up plans for prospective customers.",
+      "Support practical marketing campaigns, customer case material, demonstrations, and industry outreach.",
+      "Maintain clear records of leads, conversations, opportunities, and customer feedback."
+    ],
+    "requiredSkills": [
+      "Clear written and verbal communication with a customer-focused approach.",
+      "Interest in manufacturing, industrial technology, automation, or engineering services.",
+      "Ability to organize follow-ups, prepare professional presentations, and work across teams.",
+      "Comfort with digital marketing and common productivity tools; relevant sales or marketing experience is an advantage."
+    ],
+    "applicationEmail": "feincoreinnovations@gmail.com",
+    "published": true,
+    "featured": true,
+    "displayOrder": 1,
+    "seo": {
+      "title": "Sales & Marketing Opening — Industrial Products & Services",
+      "description": "Apply for FEINCORE Innovations’ sales and marketing role supporting industrial automation products and engineering services."
+    }
+  }
+]

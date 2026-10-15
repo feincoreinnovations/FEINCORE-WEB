@@ -1,0 +1,61 @@
+{
+  "companyName": "FEINCORE INNOVATIONS",
+  "tagline": "Innovate. Automate. Elevate.",
+  "logoPath": "/images/logo/feincore-wordmark-transparent.webp",
+  "faviconPath": "/images/logo/feincore-mark-transparent.webp",
+  "officialWebsiteUrl": "https://www.example.com",
+  "description": "We engineer smarter industrial solutions through automation, artificial intelligence, machine vision, robotics, and practical engineering innovation.",
+  "defaultSeoTitle": "FEINCORE INNOVATIONS | Industrial Automation & AI",
+  "defaultSeoDescription": "Explore industrial automation, machine vision, AI inspection, robotics, and smart manufacturing solutions from FEINCORE INNOVATIONS.",
+  "defaultOgImage": "/images/general/og-placeholder.svg",
+  "footerDescription": "Engineering smarter industries through automation, artificial intelligence, robotics, and practical engineering innovation.",
+  "contactCta": "Have an industrial challenge? Let's engineer the solution.",
+  "phone": "9345611558",
+  "email": "feincoreinnovations@gmail.com",
+  "socialLinks": [
+    { "platform": "Instagram", "url": "", "enabled": true },
+    { "platform": "LinkedIn", "url": "", "enabled": true },
+    { "platform": "YouTube", "url": "", "enabled": true },
+    { "platform": "X", "url": "", "enabled": true }
+  ],
+  "about": {
+    "introduction": "FEINCORE INNOVATIONS focuses on practical industrial technology and engineering solutions. This profile is an editable starting point; add verified company details here.",
+    "mission": "Develop reliable, application-focused engineering solutions aligned with real industrial requirements.",
+    "vision": "Become a trusted industrial technology partner through practical innovation and responsible engineering.",
+    "philosophy": "Understand the process first. Select technology for a clear purpose. Design for reliable integration and maintainability.",
+    "values": [
+      "Engineering responsibility",
+      "Practical innovation",
+      "Transparent communication",
+      "Continuous improvement"
+    ],
+    "capabilities": [
+      "Industrial automation and controls",
+      "Machine vision and AI inspection",
+      "Robotics and material handling",
+      "Machine modernization",
+      "Industrial IoT and software"
+    ],
+    "team": [
+      {
+        "name": "Naveen Kumar S",
+        "role": "Founder & CEO",
+        "photoLabel": "Founder portrait to be added"
+      },
+      {
+        "name": "Rishikesh",
+        "role": "Founder & CTO",
+        "photoLabel": "Founder portrait to be added"
+      },
+      {
+        "name": "Naveen Hari Sakthi",
+        "role": "Founder & COO",
+        "photoLabel": "Founder portrait to be added"
+      }
+    ]
+  },
+  "trustedBy": {
+    "enabled": false,
+    "logos": []
+  }
+}

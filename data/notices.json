@@ -1,0 +1,22 @@
+{
+  "imagePopup": {
+    "enabled": true,
+    "published": true,
+    "image": "/images/general/concert-notice.webp",
+    "alt": "Concert announcement preview — event details to be added",
+    "imageLink": "",
+    "showCloseButton": true,
+    "closeOnOverlayClick": true,
+    "closeOnEscape": true,
+    "showOncePerSession": true,
+    "delayMilliseconds": 300
+  },
+  "announcementBanner": {
+    "enabled": false,
+    "published": false,
+    "title": "",
+    "message": "",
+    "buttonLabel": "",
+    "buttonUrl": ""
+  }
+}

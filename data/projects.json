@@ -1,0 +1,116 @@
+[
+  {
+    "id": "pr1",
+    "name": "Machine Vision Inspection — Application Concept",
+    "slug": "machine-vision-inspection-concept",
+    "category": "Illustrative application concept",
+    "industry": "Machine Vision & Inspection",
+    "shortDescription": "An example workflow for automated presence, orientation, and surface checks on a production line.",
+    "description": "Illustrative sample only. This concept shows how a vision inspection station could fit into a production workflow; it is not a completed FEINCORE customer installation.",
+    "image": "/images/services/machine-vision.webp",
+    "imageAlt": "Illustrative industrial machine vision inspection station",
+    "challenge": "Manual checks can be inconsistent when part presentation varies or line speed increases.",
+    "approach": "Define inspection criteria, evaluate camera and lighting options, and plan how inspection results would communicate with machine controls.",
+    "solution": "A proposed camera station could capture each part, evaluate defined features, and return a pass/fail signal to the line. Feasibility and performance require application testing.",
+    "technologies": [
+      "Industrial camera and lens selection",
+      "Controlled lighting",
+      "Image processing concept",
+      "PLC and HMI interface planning"
+    ],
+    "results": [],
+    "features": [],
+    "applications": [
+      "Presence and orientation checks",
+      "Surface inspection",
+      "Traceable inspection workflow"
+    ],
+    "benefits": [],
+    "relatedServices": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "published": true,
+    "featured": true,
+    "displayOrder": 1,
+    "seo": {
+      "title": "Machine Vision Inspection Application Concept | FEINCORE",
+      "description": "Illustrative sample machine vision inspection workflow, not a completed customer project."
+    }
+  },
+  {
+    "id": "pr2",
+    "name": "Robotic Machine Tending — Application Concept",
+    "slug": "robotic-machine-tending-concept",
+    "category": "Illustrative application concept",
+    "industry": "Robotics & Automation",
+    "shortDescription": "A sample robotic loading workflow for moving parts between an operator area and a machine.",
+    "description": "Illustrative sample only. This example outlines a possible machine-tending cell and does not represent a deployed FEINCORE system.",
+    "image": "/images/services/robotics.webp",
+    "imageAlt": "Illustrative robotic arm in a manufacturing workspace",
+    "challenge": "Repeated loading and unloading can occupy operator time and require consistent part handling.",
+    "approach": "Review part presentation, machine cycle timing, reach, end-of-arm tooling, guarding, and safe operator access before selecting a robot.",
+    "solution": "A potential robot cell could transfer fixtures or parts between a staging position and machine interface, with interlocks and recovery procedures defined during engineering.",
+    "technologies": [
+      "Robot reach and payload assessment",
+      "End-of-arm tooling concept",
+      "Machine interface and interlocks",
+      "Risk assessment and cell layout"
+    ],
+    "results": [],
+    "features": [],
+    "applications": [
+      "Machine tending",
+      "Part transfer",
+      "Repetitive handling"
+    ],
+    "benefits": [],
+    "relatedServices": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "published": true,
+    "featured": true,
+    "displayOrder": 2,
+    "seo": {
+      "title": "Robotic Machine Tending Concept | FEINCORE",
+      "description": "Illustrative robotic machine-tending workflow concept, not a completed customer project."
+    }
+  },
+  {
+    "id": "pr3",
+    "name": "Legacy Machine Modernization — Application Concept",
+    "slug": "legacy-machine-modernization-concept",
+    "category": "Illustrative application concept",
+    "industry": "Machine Modernization",
+    "shortDescription": "A sample assessment and retrofit plan for updating an existing machine control and monitoring workflow.",
+    "description": "Illustrative sample only. Actual retrofit feasibility depends on equipment condition, safety requirements, documentation, and commercial evaluation.",
+    "image": "/images/services/modernization.webp",
+    "imageAlt": "Illustrative machine modernization and control station",
+    "challenge": "An older machine may lack current operator feedback, maintainable controls, or useful production data.",
+    "approach": "Document the existing system, inspect electrical and mechanical condition, identify safety gaps, and prioritize upgrades with the equipment owner.",
+    "solution": "A scoped modernization could update selected controls, operator screens, sensors, and data capture while retaining suitable machine hardware where feasible.",
+    "technologies": [
+      "Existing system assessment",
+      "PLC and HMI upgrade planning",
+      "Safety review",
+      "Machine data acquisition concept"
+    ],
+    "results": [],
+    "features": [],
+    "applications": [
+      "Legacy equipment",
+      "Controls retrofit",
+      "Condition monitoring"
+    ],
+    "benefits": [],
+    "relatedServices": [],
+    "relatedProducts": [],
+    "relatedProjects": [],
+    "published": true,
+    "featured": true,
+    "displayOrder": 3,
+    "seo": {
+      "title": "Machine Modernization Concept | FEINCORE",
+      "description": "Illustrative industrial machine modernization approach, not a completed customer project."
+    }
+  }
+]
